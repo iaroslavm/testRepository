@@ -1,0 +1,3 @@
+hi
+hello
+interesting I can write here. it is not termianl but a separate tool that can be opened from terminal.
